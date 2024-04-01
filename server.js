@@ -22,7 +22,3 @@ app.use(routes);
 app.listen(PORT, () => {
     console.log(`Server is running on PORT ${PORT}.`)
 })
-
-//natmusikhina ZJhYCcv0QC57iss7
-
-//mongodb+srv://natmusikhina:<password>@cluster0.bwcjwq8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
